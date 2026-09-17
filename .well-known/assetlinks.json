@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.supplever.android",
+    "sha256_cert_fingerprints": ["72:3B:52:2A:A5:67:ED:B8:69:B7:DF:B6:52:3F:EE:B2:EF:84:37:5C:7D:FC:C4:68:EC:0A:15:2F:51:89:9D:91"]
+  }
+}]
