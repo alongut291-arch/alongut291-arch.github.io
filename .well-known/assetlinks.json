@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "app.supplever.android",
-    "sha256_cert_fingerprints": ["72:3B:52:2A:A5:67:ED:B8:69:B7:DF:B6:52:3F:EE:B2:EF:84:37:5C:7D:FC:C4:68:EC:0A:15:2F:51:89:9D:91"]
+    "sha256_cert_fingerprints": [
+      "72:3B:52:2A:A5:67:ED:B8:69:B7:DF:B6:52:3F:EE:B2:EF:84:37:5C:7D:FC:C4:68:EC:0A:15:2F:51:89:9D:91",
+      "B5:7E:88:42:A6:2A:49:20:E8:BE:95:D4:38:67:92:15:6E:AC:05:EE:A8:3E:15:CA:A3:F5:AA:6B:65:02:D4:A9"
+    ]
   }
 }]
